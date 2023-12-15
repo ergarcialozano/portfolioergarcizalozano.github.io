@@ -1,0 +1,51 @@
+html{background-color:#DED0B6;}
+
+#title{
+  background-color: #607274;
+  color:#607274
+}
+.navbar-brand{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 3.5rem;
+}
+
+.nav-item{
+  padding:0 18px;
+  color:#DED0B6;
+}
+
+.navbar{
+  padding:0 18px;
+}
+
+h1{
+  background-color: #DED0B6;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  padding-top: 8%;
+}
+
+h3{
+  background-color: #DED0B6;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  padding-top: 2%;
+}
+
+#carouselfirst{
+  padding: 2% 15%;
+  background-color: #DED0B6;
+}
+
+.carousel-item{
+  width: 30%;
+  margin: 10px;
+}
+
+.col-sm-6{
+  padding-top: 2%;
+}
+
+.card-img-top{
+  padding-top: 4%;
+}
